@@ -1,0 +1,12 @@
+pip
+flask
+Flask-SQLAlchemy
+factory_boy
+
+# https://github.com/pytest-dev/pytest/issues/1034
+#pytest==2.7.2
+pytest
+
+pytest-flask
+sqlalchemy
+
